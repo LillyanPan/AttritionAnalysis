@@ -1,5 +1,6 @@
 # Employee Attrition Analysis
-*Benjamin Edwards (bje43) , Artina Maloki (am2495), and  Lillyan Pan (ldp54)*
+*By Benjamin Edwards (bje43) , Artina Maloki (am2495), and  Lillyan Pan (ldp54)*
+<br>
 <br>
 This project seeks to analyze what factors cause employees to leave a company. 
 
